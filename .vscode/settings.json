@@ -1,0 +1,9 @@
+{
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ],
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "BN.C": "cpp"
+    }
+}
